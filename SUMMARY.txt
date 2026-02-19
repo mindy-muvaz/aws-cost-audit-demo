@@ -1,0 +1,18 @@
+======================================================================
+AWS COST OPTIMIZATION AUDIT - EXECUTIVE SUMMARY
+======================================================================
+
+Generated: 2026-02-18 16:31:57 UTC
+Tool Version: 2.0.0
+
+Total Findings: 28
+Estimated Monthly Savings: $106.70
+Regions Scanned: 2
+
+Findings by Severity:
+  High: 10
+  Medium: 18
+
+======================================================================
+See aws_cost_audit_report.md for detailed findings and recommendations.
+======================================================================
